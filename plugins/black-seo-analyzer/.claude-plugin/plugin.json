@@ -1,0 +1,23 @@
+{
+  "name": "black-seo-analyzer",
+  "displayName": "Black SEO Analyzer",
+  "version": "1.0.0",
+  "description": "Technical SEO audits from Claude, run on Black SEO Analyzer's servers: check one page, crawl a site, rank the fixes, compare two crawls and preview search snippets. Results stay with your account between conversations. Needs a Black SEO Analyzer hosted plan or trial.",
+  "author": {
+    "name": "Fiscus Technology, LLC",
+    "url": "https://www.blackseoanalyzer.com/",
+    "email": "hello@blackseoanalyzer.com"
+  },
+  "homepage": "https://www.blackseoanalyzer.com/en/mcp",
+  "repository": "https://github.com/sethblack/black-seo-analyzer-plugin",
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.blackseoanalyzer.com/en/privacy",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "site audit",
+    "technical seo",
+    "crawler",
+    "search snippets"
+  ]
+}

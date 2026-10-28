@@ -1,0 +1,18 @@
+{
+  "name": "black-seo-analyzer",
+  "description": "Black SEO Analyzer: technical SEO audits from Claude, run on our servers.",
+  "owner": {
+    "name": "Fiscus Technology, LLC",
+    "email": "hello@blackseoanalyzer.com"
+  },
+  "plugins": [
+    {
+      "name": "black-seo-analyzer",
+      "source": "./plugins/black-seo-analyzer",
+      "description": "Check one page, crawl a site, rank the fixes, compare two crawls and preview search snippets, with results kept for your account. Needs a Black SEO Analyzer hosted plan or trial.",
+      "version": "1.0.0",
+      "category": "development",
+      "homepage": "https://www.blackseoanalyzer.com/en/mcp"
+    }
+  ]
+}
