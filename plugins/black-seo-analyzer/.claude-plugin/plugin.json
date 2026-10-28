@@ -9,6 +9,7 @@
     "email": "hello@blackseoanalyzer.com"
   },
   "homepage": "https://www.blackseoanalyzer.com/en/mcp",
+  "documentationUrl": "https://www.blackseoanalyzer.com/en/mcp",
   "repository": "https://github.com/sethblack/black-seo-analyzer-plugin",
   "icon": ".claude-plugin/icon.png",
   "privacyPolicyUrl": "https://www.blackseoanalyzer.com/en/privacy",
